@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fashion Finance</string>
+    <string name="txtTitle">Luxury Fashion Financials</string>
+    <string name="brandSelection">Select Brand</string>
+    <string name="txtCapri">Capri Holdings Limited</string>
+    <string name="txtHermes">Hermés International Société</string>
+    <string name="txtRalphL">Ralph Lauren Corporation</string>
+    <string name="txtChristianD">Christian Dior</string>
+    <string name="RLbutton">Ralph Lauren</string>
+    <string name="HermesButton">Hermès</string>
+    <string name="ChristianButton">Christian Dior</string>
+    <string name="CapriButton">Capri</string>
+    <string name="HomeButton">Home Screen</string>
+    <string name="Financials">Financial Information</string>
+    <string name="Stock">Stock Performance</string>
+    <string name="Summary">Firm Summary</string>
+    <string name="CapriMain">Capri Holdings Limited</string>
+    <string name="info">For more information please contact one of the following:</string>
+    <string name="infoEmail">Email</string>
+    <string name="infoPhone">Phone Number</string>
+
+</resources>

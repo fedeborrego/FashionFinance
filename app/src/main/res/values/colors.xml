@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorMain">#E3E4FA</color>
+    <color name="colorFont">#EBC2DC</color>
+    <color name="Rose">#FF928E</color>
+    <color name="Misty_Rose">#F1FFF1F1</color>
+    <color name="Lavender">#E3E4FA</color>
+    <color name="NavajoWhite">#FFDEAD</color>
+    <color name="PaleVioletRed">#DB7093</color>
+    <color name="Tan">#D2B48C</color>
+    <color name="DarkMagenta">#FFFFFF</color>
+    <color name="LightSlateGray">#778899</color>
+    <color name="Ivory">#E5D1E7</color>
+    <color name="LightGrey">#D3D3D3</color>
+    <color name="DarkKhaki">#BDB76B</color>
+    <color name="DarkSlateGray">#CCD7D7D7</color>
+
+</resources>

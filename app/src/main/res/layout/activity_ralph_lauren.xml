@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RalphLauren">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/wallpaper"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="40dp" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="275dp"
+            app:srcCompat="@drawable/ralph_lauren" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="40dp" />
+
+        <Button
+            android:id="@+id/bttnRLFin"
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:background="@android:drawable/editbox_dropdown_light_frame"
+            android:fontFamily="serif"
+            android:text="@string/Financials" />
+
+        <Button
+            android:id="@+id/bttnRLStock"
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:background="@android:drawable/editbox_dropdown_light_frame"
+            android:fontFamily="serif"
+            android:text="@string/Stock" />
+
+        <Button
+            android:id="@+id/backBttnRL"
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:background="@android:drawable/editbox_dropdown_light_frame"
+            android:fontFamily="serif"
+            android:text="@string/HomeButton" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
